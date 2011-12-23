@@ -27,3 +27,8 @@ Modules:
 * wwwdude (npmjs.org)
 * async (npmjs.org)
 * dateformat (npmjs.org)
+
+Usage
+-----
+
+See example.js for a usage example.

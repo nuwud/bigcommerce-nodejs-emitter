@@ -1,4 +1,4 @@
-var bc = require('bc-emitter').create({
+var bc = require('bigcommerce-emitter').create({
 	username: 'admin',
 	token: '...',
 	baseUrl: 'https://www.example.com/api/v2'
