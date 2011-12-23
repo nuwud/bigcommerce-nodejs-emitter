@@ -1,5 +1,5 @@
-BigCommerce API V2 NodeJS Monitor Module
-========================================
+BigCommerce API V2 NodeJS Event Emitter Module
+==============================================
 
 Takes the hassle out of polling the BigCommerce API by monitoring specified resources and emitting events.
 
