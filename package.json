@@ -1,0 +1,8 @@
+{
+	"name": "bigcommerce-emitter",
+	"description": "Takes the hassle out of polling the BigCommerce API by monitoring specified resources and emitting events",
+	"version": "0.0.1",
+	"author": "Gwilym Evans <gwilym.evans@bigcommerce.com>",
+	"engines": ["node"],
+	"main": "index.js"
+}

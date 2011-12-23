@@ -18,5 +18,12 @@ and debugging a module.
 Requirements
 ------------
 
+NodeJS:
+
 * nodejs 5.x - may work on others, but untested
-* wwwdude module - available on npm or at https://github.com/pfleidi/node-wwwdude
+
+Modules:
+
+* wwwdude (npmjs.org)
+* async (npmjs.org)
+* dateformat (npmjs.org)
